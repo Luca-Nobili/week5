@@ -1,0 +1,3 @@
+# Nmap 7.92 scan initiated Wed Aug  3 16:35:06 2022 as: nmap -oN report5192.168.50.101 -p 0-1024 -sV -sS
+WARNING: No targets were specified, so 0 hosts scanned.
+# Nmap done at Wed Aug  3 16:35:06 2022 -- 0 IP addresses (0 hosts up) scanned in 0.13 seconds
